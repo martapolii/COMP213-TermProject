@@ -9,6 +9,7 @@ filename.ext
 # Ignore a specific directory
 directory_name/
 TermProject-copy
+real-estate-agent-website/
 
 # Ignore all files in a directory
 directory_name/*
